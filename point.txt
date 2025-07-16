@@ -1,0 +1,7 @@
+first access all the components ofo innerHTML
+select whose turn it is and set ot to True.
+set all the winning patters in an array.
+set a for each loop for every back to detect a click and changes the inner text to X or O.
+create a check for winner function
+create a function for enabling Button
+create a function for disabling button.
